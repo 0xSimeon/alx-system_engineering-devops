@@ -40,6 +40,6 @@
 - The files should be sorted by byte values but case-insensitive (file aaa should be listed before filel bbb, file .b should be listed before file a, and file Rona should be listed after jay
 - One file name per line
 - the listing ends with a new line.<br>
-
+`102-acrostic` script decodes acrostics that use the first letter of each line.
 
 
