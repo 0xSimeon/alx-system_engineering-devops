@@ -26,6 +26,7 @@
 `19-AZ` script replaces all characters A and C from inpput to Z and e respectively <br>
 `20-hiago` script removes all letters `c` and `C` from input. <br>
 `21-reverse` script reverses the input passed to it. <br>
+`22-users_and_homes` script diplays all users and their home directories, sorted by users. <br>
 
 
 
