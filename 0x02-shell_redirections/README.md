@@ -18,4 +18,6 @@
 -Output format: One line, one word
 -Words should be sorted 
 <br>
+`14-findthatword` script display lines containing the pattern "root" from the file /etc/passwd <br>
+
 
