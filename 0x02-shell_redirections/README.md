@@ -40,6 +40,9 @@
 - The files should be sorted by byte values but case-insensitive (file aaa should be listed before filel bbb, file .b should be listed before file a, and file Rona should be listed after jay
 - One file name per line
 - the listing ends with a new line.<br>
-`102-acrostic` script decodes acrostics that use the first letter of each line.
+`102-acrostic` script decodes acrostics that use the first letter of each line.<br>
+`103-the_biggest_fan` script parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests.
+
+-Order by number of requests, most active host or IP at the top
 
 
