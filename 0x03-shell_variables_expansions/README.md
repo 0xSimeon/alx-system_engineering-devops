@@ -4,4 +4,5 @@ Scripts in this repo and what they do:
 `2-path` adds  /action to the PATH. /action is the last directory the shell looks into when looking for a program.
 `3-paths` counts the number of directories in the $PATH
 `4-global_variables` lists environment variables.
-`5-local_variables` lists all local variables and environment variables, and functions. 
+`5-local_variables` lists all local variables and environment variables, and functions.
+`6-create_local_variable` creates a new local variable. 
