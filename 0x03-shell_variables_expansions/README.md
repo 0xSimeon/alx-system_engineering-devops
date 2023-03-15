@@ -16,4 +16,5 @@ scripts in this repo and what they do: <br>
 `12-combiinations` prints all possible combinations of two letters, except oo. <br>
 `13-print_float` prints a number with two decimal places (the number is stored in `NUM` environment variable) <br>
 `100-decimal_to_hexadecimal` converts a number from base 10 to base 16. (number in based 10 is stored in the environment variable `DECIMAL`) <br>
+`101-rot13` encodes and decodes text using the rot13 encryption. It assumes ASCII. <br>
 
