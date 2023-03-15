@@ -14,3 +14,5 @@ scripts in this repo and what they do: <br>
 `10-love_exponent_breath` displays the result of BREATH to the power LOVE (both BREATH and LOVE are env variables) <br>
 `11-binary_to_decimal` converts a number from base 2 to base 10. (the number is stored in environment variable `BINARY`0 </br>
 `12-combiinations` prints all possible combinations of two letters, except oo. <br>
+`13-print_float` prints a number with two decimal places (the number is stored in `NUM` environment variable) <br>
+
