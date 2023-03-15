@@ -18,4 +18,4 @@ scripts in this repo and what they do: <br>
 `100-decimal_to_hexadecimal` converts a number from base 10 to base 16. (number in based 10 is stored in the environment variable `DECIMAL`) <br>
 `101-rot13` encodes and decodes text using the rot13 encryption. It assumes ASCII. <br>
 `102-odd` prints every other line from the input, starting with the first line. <br>
-
+`103-water_and_stir` adds the two numbers stored in the environment variables `WATER` and `STIR` and prints the result.` WATER` is in base water `STIR` is in base stir.
